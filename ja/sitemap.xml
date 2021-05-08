@@ -2,160 +2,160 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tmhys.io/blog/ja/categories/</loc>
+    <loc>https://tmhys.io/ja/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tmhys.io/blog/categories/"
+                href="https://tmhys.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://tmhys.io/blog/fr/categories/"
+                href="https://tmhys.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://tmhys.io/blog/pl/categories/"
+                href="https://tmhys.io/pl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tmhys.io/blog/pt/categories/"
+                href="https://tmhys.io/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://tmhys.io/blog/de/categories/"
+                href="https://tmhys.io/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://tmhys.io/blog/es/categories/"
+                href="https://tmhys.io/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://tmhys.io/blog/zh-cn/categories/"
+                href="https://tmhys.io/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://tmhys.io/blog/zh-tw/categories/"
+                href="https://tmhys.io/zh-tw/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://tmhys.io/blog/nl/categories/"
+                href="https://tmhys.io/nl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tmhys.io/blog/ja/categories/"
+                href="https://tmhys.io/ja/categories/"
                 />
   </url><url>
-    <loc>https://tmhys.io/blog/ja/tags/</loc>
+    <loc>https://tmhys.io/ja/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tmhys.io/blog/tags/"
+                href="https://tmhys.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://tmhys.io/blog/fr/tags/"
+                href="https://tmhys.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://tmhys.io/blog/pl/tags/"
+                href="https://tmhys.io/pl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tmhys.io/blog/pt/tags/"
+                href="https://tmhys.io/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://tmhys.io/blog/de/tags/"
+                href="https://tmhys.io/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://tmhys.io/blog/es/tags/"
+                href="https://tmhys.io/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://tmhys.io/blog/zh-cn/tags/"
+                href="https://tmhys.io/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://tmhys.io/blog/zh-tw/tags/"
+                href="https://tmhys.io/zh-tw/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://tmhys.io/blog/nl/tags/"
+                href="https://tmhys.io/nl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tmhys.io/blog/ja/tags/"
+                href="https://tmhys.io/ja/tags/"
                 />
   </url><url>
-    <loc>https://tmhys.io/blog/ja/</loc>
+    <loc>https://tmhys.io/ja/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tmhys.io/blog/"
+                href="https://tmhys.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://tmhys.io/blog/fr/"
+                href="https://tmhys.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://tmhys.io/blog/pl/"
+                href="https://tmhys.io/pl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://tmhys.io/blog/pt/"
+                href="https://tmhys.io/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://tmhys.io/blog/de/"
+                href="https://tmhys.io/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://tmhys.io/blog/es/"
+                href="https://tmhys.io/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://tmhys.io/blog/zh-cn/"
+                href="https://tmhys.io/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://tmhys.io/blog/zh-tw/"
+                href="https://tmhys.io/zh-tw/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://tmhys.io/blog/nl/"
+                href="https://tmhys.io/nl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://tmhys.io/blog/ja/"
+                href="https://tmhys.io/ja/"
                 />
   </url>
 </urlset>

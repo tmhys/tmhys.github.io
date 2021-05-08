@@ -2,55 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on tmhys.io</title>
-    <link>https://tmhys.io/blog/posts/</link>
+    <link>https://tmhys.io/posts/</link>
     <description>Recent content in Posts on tmhys.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 08 May 2021 00:38:03 +0900</lastBuildDate><atom:link href="https://tmhys.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 May 2021 00:38:03 +0900</lastBuildDate><atom:link href="https://tmhys.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>0003</title>
-      <link>https://tmhys.io/blog/posts/0003/</link>
+      <link>https://tmhys.io/posts/0003/</link>
       <pubDate>Sat, 08 May 2021 00:38:03 +0900</pubDate>
       
-      <guid>https://tmhys.io/blog/posts/0003/</guid>
+      <guid>https://tmhys.io/posts/0003/</guid>
       <description></description>
     </item>
     
     <item>
       <title>004</title>
-      <link>https://tmhys.io/blog/posts/004/</link>
+      <link>https://tmhys.io/posts/004/</link>
       <pubDate>Fri, 07 May 2021 22:44:08 +0900</pubDate>
       
-      <guid>https://tmhys.io/blog/posts/004/</guid>
+      <guid>https://tmhys.io/posts/004/</guid>
       <description></description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>https://tmhys.io/blog/posts/3/</link>
+      <link>https://tmhys.io/posts/3/</link>
       <pubDate>Fri, 07 May 2021 15:02:01 +0900</pubDate>
       
-      <guid>https://tmhys.io/blog/posts/3/</guid>
+      <guid>https://tmhys.io/posts/3/</guid>
       <description>aaaaaaaaaaa
  aaaa  </description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>https://tmhys.io/blog/posts/my-first-post/</link>
+      <link>https://tmhys.io/posts/my-first-post/</link>
       <pubDate>Fri, 07 May 2021 15:02:01 +0900</pubDate>
       
-      <guid>https://tmhys.io/blog/posts/my-first-post/</guid>
+      <guid>https://tmhys.io/posts/my-first-post/</guid>
       <description>aaaaaaaaaaa
  aaaa  </description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>https://tmhys.io/blog/posts/second/</link>
+      <link>https://tmhys.io/posts/second/</link>
       <pubDate>Fri, 07 May 2021 15:02:01 +0900</pubDate>
       
-      <guid>https://tmhys.io/blog/posts/second/</guid>
+      <guid>https://tmhys.io/posts/second/</guid>
       <description>aaaaaaaaaaa
  aaaa  </description>
     </item>
